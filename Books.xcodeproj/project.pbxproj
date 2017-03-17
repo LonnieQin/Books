@@ -6,10 +6,15 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		F00F979C1E7B5EAC00312E4E /* metal-shading-language-specification.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "metal-shading-language-specification.pdf"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		F00F97951E7B5E4B00312E4E = {
 			isa = PBXGroup;
 			children = (
+				F00F979C1E7B5EAC00312E4E /* metal-shading-language-specification.pdf */,
 			);
 			sourceTree = "<group>";
 		};
